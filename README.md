@@ -1,2 +1,5 @@
 # flights_during_covid
 Flights During COVID-19
+
+COVID-19 has impacted our our way of life in countless ways. But one particularly affected industry was the airline industry. When the virus struck the United States, passenger counts undeniably took a nose dive across the entire country and world. As someone who is particularly interested in transportation and the airline industry, this project was a fun way to explore the specific impacts of COVID-19 on the airline industry from a variety of standpoints. In this project I focused on month-by-month flight segment data in the United States, including both domestic and international flights, to get a snapshot of passenger counts, freight, mail, and the like by region, segment, airline, and many other facets. This data was obtained from the US Department of Transportation’s Bureau of Transportation Statistics.
+I explored flight data between 2019 and 2020 in the United States. This included both domestic and international flights. Other data sets brought in included population counts provided by the US Census Bureau and COVID-19 daily case count data by state provided by The New York Times.
